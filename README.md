@@ -1,2 +1,2 @@
-# OGED-S
-Oil and Gas Extraction Database &amp; Shopping
+# OGED-B
+Oil and Gas Extraction Database &amp; Business 
